@@ -14,11 +14,23 @@ A dead-simple, minimal starter template with **Vite**, **React (JavaScript)**, a
 
 ## 🛠️ Getting Started
 
+Sure! Here's the updated section with **Option 1** and **Option 2** for cloning the template:
+
+---
+
 ### 1. Clone the Template
 
+#### Option 1: Clone into a new folder
+
 ```bash
-npx degit mdarslan7/vite-reactjs-tailwind-starter my-app
+npx degit mdarslan7/vite-reactjs-tailwind-starter my-app  
 cd my-app
+```
+
+#### Option 2: Clone into the current folder (must be empty)
+
+```bash
+npx degit mdarslan7/vite-reactjs-tailwind-starter .
 ```
 
 ### 2. Install Dependencies
